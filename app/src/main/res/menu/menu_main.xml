@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.takenoteapp">
+    <item
+        android:id="@+id/action_layout1"
+        android:title="One Column"
+        app:showAsAction="collapseActionView"/>
+    <item
+        android:id="@+id/action_layout2"
+        android:title="Two Column"
+        app:showAsAction="collapseActionView"/>
+</menu>
